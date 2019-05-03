@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
   telegram: true
 
 comment:
-  used: ""
+  used: gitalk
   # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "" # Your disqus 
@@ -49,7 +49,7 @@ comment:
   client_id: "67da1dcbaf03ba39594a"
   client_secret: "f0928d0328b40d9dd5d4aa784bbc22b43277a217"
   # gitalk extra config
-  # admin: "ModerRAS","ModerEAS"
+  admin: \"ModerRAS\",\"ModerEAS\"
   #valine config
   valine_notify: false #mail notifier
   valine_verify: false #validation code
