@@ -33,7 +33,7 @@ sns_share: # SNS Share Switch
   
 comment:
   # disqus,livere,gitment,valine
-  used:"gitment"
+  used: "gitment"
   # disqus config
   disqus_shortname: "" # Your disqus 
   disqus_button: true # disqus load button
