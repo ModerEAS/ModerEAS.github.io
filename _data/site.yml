@@ -32,7 +32,8 @@ sns_share: # SNS Share Switch
    telegram: true
   
 comment:
-  used: "gitment" # disqus,livere,gitment,valine
+  # disqus,livere,gitment,valine
+  used:"gitment"
   # disqus config
   disqus_shortname: "" # Your disqus 
   disqus_button: true # disqus load button
